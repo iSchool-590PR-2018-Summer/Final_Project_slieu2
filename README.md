@@ -42,4 +42,6 @@ The profit during peak lunch hour is quite low compared to peak dinner hour. Dur
 Based on the outcomes, you can determine which variable has the most impact on profitability and then you can adjust it accordingly. The random variables are things that cannot be controlled, but it provides a rough estimates of some of the factors.
 
 ## Instructions on how to use the program: 
+To see the program run with less iterations, the global variable simulation_iterations = 1000 can be changes to a smaller number.
 
+To see the fluctuations profit, the menu price can be changed in the def data_init() function.
