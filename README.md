@@ -45,3 +45,5 @@ Based on the outcomes, you can determine which variable has the most impact on p
 To see the program run with less iterations, the global variable simulation_iterations = 1000 can be changes to a smaller number.
 
 To see the fluctuations profit, the menu price can be changed in the def data_init() function.
+
+I attached a sample csv output file to show what a possible outcome looks like. However, everytime changes are made to the iteration value and the data_init() function, the previously opened csv file needs to be delete before the latest run is shown the output file.
