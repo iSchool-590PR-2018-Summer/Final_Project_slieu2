@@ -2,7 +2,7 @@
 
 TEMPLATE for your report to fill out:
 
-# Title: Profit margins for 5 dishes served in a restaurant
+# Title: Profit margins for 4 dishes served in a restaurant
 
 ## Team Member(s): Susan Lieu
 
